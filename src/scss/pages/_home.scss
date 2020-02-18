@@ -6,7 +6,8 @@
     position: relative;
     height: 100vh;
     min-height: 600px;
-    background-image: linear-gradient(rgba($color-black, .2), rgba($color-black, .3)) , url('../img/header.jpg');
+    //background-image: linear-gradient(rgba($color-black, .2), rgba($color-black, .3)) , url('../img/header.jpg');
+   background-color: rgb(29, 28, 28);
     background-size: cover;
     background-position: center;
     text-align: center;
